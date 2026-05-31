@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvelete",
+        "uuid": 1067400,
+        "checksum": "wb0mt9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
